@@ -1995,3 +1995,15 @@ h1, h2, h3, h4, h5,
 #galery-owl.owl-theme .owl-next {
   right: 15px;
 }
+
+/*=========================================================
+	ACML UPDATE
+===========================================================*/
+.bold-date {
+  color: #f16821;
+}
+
+.card-image-top {
+  width: auto;
+  height: 328px;
+}
