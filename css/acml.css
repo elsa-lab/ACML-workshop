@@ -16,3 +16,11 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.time-zone { 
+  font-size: 13px;
+  color: #adb5bd;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  font-weight: 700; 
+}
