@@ -1917,6 +1917,7 @@ h1, h2, h3, h4, h5,
 .event .event-content {
   padding-left: 160px;
   min-height: 120px;
+  /* color: black; */
 }
 
 .event .event-time {

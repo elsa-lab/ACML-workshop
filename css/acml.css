@@ -24,3 +24,13 @@
   text-transform: uppercase;
   font-weight: 700; 
 }
+
+.modal-btn {
+  font-size: 1rem;
+  font-weight: normal;
+  text-transform: capitalize;
+}
+
+button:focus {
+  outline: none;
+}
