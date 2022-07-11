@@ -2,7 +2,12 @@
 	ACML UPDATE
 ===========================================================*/
 .bold-date {
-  color: #f16821;
+  color: #4389eb;
+}
+
+.description {
+  color: dimgray;
+  font-size: 18px;
 }
 
 .card-image-top {
@@ -29,6 +34,18 @@
   font-size: 1rem;
   font-weight: normal;
   text-transform: capitalize;
+  text-decoration: underline;
+  color: #4389eb;
+}
+
+.website-link {
+  text-decoration: underline;
+  color: #4389eb;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #2962b3;
 }
 
 button:focus {
